@@ -1,0 +1,4 @@
+
+[docs]
+Sphinx>=1.0
+sphinx_rtd_theme

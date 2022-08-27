@@ -1,0 +1,5 @@
+cba83460c1ad0aa301dece6de67f39a8  usr/lib/php/20170718/curl.so
+68991fe92c2e50823ca010dfb9df6ef7  usr/share/bug/php7.2-curl/control
+7068ab8df797705cefb7d5729c9dd87f  usr/share/bug/php7.2-curl/script
+f669be9d2fabc34e5435325354eaa900  usr/share/lintian/overrides/php7.2-curl
+0278905f22bb2770ddee828403d70cfd  usr/share/php7.2-curl/curl/curl.ini

@@ -1,0 +1,13 @@
+[Unit]
+Description=Mount unit for amazon-ssm-agent, revision 2012
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/amazon-ssm-agent_2012.snap
+Where=/snap/amazon-ssm-agent/2012
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+LazyUnmount=yes
+
+[Install]
+WantedBy=multi-user.target

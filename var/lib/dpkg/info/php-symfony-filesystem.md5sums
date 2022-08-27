@@ -1,0 +1,9 @@
+878e7761759340581b41a2c764010787  usr/share/doc/php-symfony-filesystem/changelog.Debian.gz
+8dbf7f80f5b8a552f2fd23ef1f8a0306  usr/share/doc/php-symfony-filesystem/copyright
+34db82450fb4585dc0062b887e162936  usr/share/php/Symfony/Component/Filesystem/Exception/ExceptionInterface.php
+5b777960995ad86b080c4bcd4fb2bca2  usr/share/php/Symfony/Component/Filesystem/Exception/FileNotFoundException.php
+1bf882a413ec45ec59da4cf55c8afcd0  usr/share/php/Symfony/Component/Filesystem/Exception/IOException.php
+600e02292dadf55b8735ef5c818ddeed  usr/share/php/Symfony/Component/Filesystem/Exception/IOExceptionInterface.php
+1f5be249a3a69068063453e283f6987f  usr/share/php/Symfony/Component/Filesystem/Filesystem.php
+c0a1a59e4c5effd53563b1b55da463b3  usr/share/php/Symfony/Component/Filesystem/LockHandler.php
+7f704118bd014a5bdc068674dfcb1cc5  usr/share/php/Symfony/Component/Filesystem/autoload.php

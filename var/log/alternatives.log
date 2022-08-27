@@ -1,0 +1,12 @@
+update-alternatives 2020-07-04 02:19:35: run with --install /usr/bin/php php /usr/bin/php7.2 72 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php7.2.1.gz
+update-alternatives 2020-07-04 02:19:35: link group php updated to point to /usr/bin/php7.2
+update-alternatives 2020-07-04 02:19:35: run with --install /usr/bin/phar phar /usr/bin/phar7.2 72 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar7.2.1.gz
+update-alternatives 2020-07-04 02:19:35: link group phar updated to point to /usr/bin/phar7.2
+update-alternatives 2020-07-04 02:19:35: run with --install /usr/bin/phar.phar phar.phar /usr/bin/phar.phar7.2 72 --slave /usr/share/man/man1/phar.phar.1.gz phar.phar.1.gz /usr/share/man/man1/phar.phar7.2.1.gz
+update-alternatives 2020-07-04 02:19:35: link group phar.phar updated to point to /usr/bin/phar.phar7.2
+update-alternatives 2020-07-04 02:38:57: run with --install /usr/bin/pbr pbr /usr/bin/python3-pbr 200
+update-alternatives 2020-07-04 02:38:57: link group pbr updated to point to /usr/bin/python3-pbr
+update-alternatives 2020-07-04 02:38:59: run with --install /usr/bin/futurize futurize /usr/bin/python3-futurize 300
+update-alternatives 2020-07-04 02:38:59: link group futurize updated to point to /usr/bin/python3-futurize
+update-alternatives 2020-07-04 02:38:59: run with --install /usr/bin/pasteurize pasteurize /usr/bin/python3-pasteurize 300
+update-alternatives 2020-07-04 02:38:59: link group pasteurize updated to point to /usr/bin/python3-pasteurize

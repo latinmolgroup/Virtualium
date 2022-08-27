@@ -1,0 +1,1 @@
+<device DEVNO="0xfc00" TIME="1591904333.598369" LABEL="cloudimg-rootfs" UUID="2ce321d3-087f-4a58-8f97-ed6135e77fee" TYPE="ext4" PARTUUID="b93804ca-01">/dev/mapper/loop0p1</device>

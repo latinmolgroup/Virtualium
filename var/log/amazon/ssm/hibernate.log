@@ -1,0 +1,318 @@
+2020-07-04 01:46:42 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2020-07-04 01:51:42 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2020-07-04 01:51:42 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 02:21:42 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2020-07-04 02:21:42 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 03:21:42 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2020-07-04 03:21:42 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 05:21:42 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2020-07-04 05:21:42 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 07:46:52 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2020-07-04 07:51:52 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2020-07-04 07:51:52 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 08:21:52 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2020-07-04 08:21:52 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 09:21:52 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2020-07-04 09:21:52 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 11:21:52 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2020-07-04 11:21:52 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 14:21:52 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 14:33:36 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2020-07-22 14:38:36 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2020-07-22 14:38:36 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 15:08:36 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2020-07-22 15:08:36 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 16:08:36 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2020-07-22 16:08:36 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 18:08:36 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2020-07-22 18:08:36 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 21:08:36 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-24 00:31:22 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2020-07-24 00:36:22 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2020-07-24 00:36:22 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-24 01:06:22 INFO Backing off health check to every 1200 seconds for 3600 seconds.
+2020-07-24 01:06:22 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-24 02:06:22 INFO Backing off health check to every 2400 seconds for 7200 seconds.
+2020-07-24 02:06:22 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-24 04:06:22 INFO Backing off health check to every 3600 seconds for 10800 seconds.
+2020-07-24 04:06:22 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-24 07:06:22 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-29 02:46:51 INFO Agent is in hibernate mode. Reducing logging. Logging will be reduced to one log per backoff period
+2020-07-29 02:51:51 INFO Backing off health check to every 600 seconds for 1800 seconds.
+2020-07-29 02:51:51 ERROR Health ping failed with error - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+

@@ -1,0 +1,5 @@
+/etc/acpi/actions/hibinit-power.sh
+/etc/acpi/actions/sleep.sh
+/etc/acpi/events/hibinit-power
+/etc/acpi/events/hibinit-sleep
+/etc/hibinit-config.cfg

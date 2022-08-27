@@ -1,0 +1,56 @@
+2020-07-27 07:05:36,705:DEBUG:certbot.main:certbot version: 0.27.0
+2020-07-27 07:05:36,706:DEBUG:certbot.main:Arguments: ['-q']
+2020-07-27 07:05:36,707:DEBUG:certbot.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#apache,PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-07-27 07:05:36,715:DEBUG:certbot.log:Root logging level set at 30
+2020-07-27 07:05:36,716:INFO:certbot.log:Saving debug log to /var/log/letsencrypt/letsencrypt.log
+2020-07-27 07:05:36,734:DEBUG:certbot.plugins.selection:Requested authenticator <certbot.cli._Default object at 0x7efe36f26828> and installer <certbot.cli._Default object at 0x7efe36f26828>
+2020-07-27 07:05:36,741:INFO:certbot.renewal:Cert not yet due for renewal
+2020-07-27 07:05:36,741:DEBUG:certbot.plugins.selection:Requested authenticator apache and installer apache
+2020-07-27 07:05:36,742:DEBUG:certbot.plugins.selection:Selecting plugin: * apache
+Description: Apache Web Server plugin - Beta
+Interfaces: IAuthenticator, IInstaller, IPlugin
+Entry point: apache = certbot_apache.entrypoint:ENTRYPOINT
+Initialized: <certbot_apache.override_debian.DebianConfigurator object at 0x7efe36f11630>
+2020-07-27 07:05:36,742:DEBUG:certbot.renewal:no renewal failures
+2020-07-27 21:42:11,928:DEBUG:certbot.main:certbot version: 0.27.0
+2020-07-27 21:42:11,929:DEBUG:certbot.main:Arguments: ['-q']
+2020-07-27 21:42:11,930:DEBUG:certbot.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#apache,PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-07-27 21:42:11,938:DEBUG:certbot.log:Root logging level set at 30
+2020-07-27 21:42:11,938:INFO:certbot.log:Saving debug log to /var/log/letsencrypt/letsencrypt.log
+2020-07-27 21:42:11,956:DEBUG:certbot.plugins.selection:Requested authenticator <certbot.cli._Default object at 0x7f4c4a60d828> and installer <certbot.cli._Default object at 0x7f4c4a60d828>
+2020-07-27 21:42:11,963:INFO:certbot.renewal:Cert not yet due for renewal
+2020-07-27 21:42:11,963:DEBUG:certbot.plugins.selection:Requested authenticator apache and installer apache
+2020-07-27 21:42:11,964:DEBUG:certbot.plugins.selection:Selecting plugin: * apache
+Description: Apache Web Server plugin - Beta
+Interfaces: IAuthenticator, IInstaller, IPlugin
+Entry point: apache = certbot_apache.entrypoint:ENTRYPOINT
+Initialized: <certbot_apache.override_debian.DebianConfigurator object at 0x7f4c4a5f8630>
+2020-07-27 21:42:11,965:DEBUG:certbot.renewal:no renewal failures
+2020-07-28 04:11:11,936:DEBUG:certbot.main:certbot version: 0.27.0
+2020-07-28 04:11:11,937:DEBUG:certbot.main:Arguments: ['-q']
+2020-07-28 04:11:11,938:DEBUG:certbot.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#apache,PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-07-28 04:11:11,946:DEBUG:certbot.log:Root logging level set at 30
+2020-07-28 04:11:11,947:INFO:certbot.log:Saving debug log to /var/log/letsencrypt/letsencrypt.log
+2020-07-28 04:11:11,966:DEBUG:certbot.plugins.selection:Requested authenticator <certbot.cli._Default object at 0x7f2615a42828> and installer <certbot.cli._Default object at 0x7f2615a42828>
+2020-07-28 04:11:11,973:INFO:certbot.renewal:Cert not yet due for renewal
+2020-07-28 04:11:11,973:DEBUG:certbot.plugins.selection:Requested authenticator apache and installer apache
+2020-07-28 04:11:11,973:DEBUG:certbot.plugins.selection:Selecting plugin: * apache
+Description: Apache Web Server plugin - Beta
+Interfaces: IAuthenticator, IInstaller, IPlugin
+Entry point: apache = certbot_apache.entrypoint:ENTRYPOINT
+Initialized: <certbot_apache.override_debian.DebianConfigurator object at 0x7f2615a2d630>
+2020-07-28 04:11:11,974:DEBUG:certbot.renewal:no renewal failures
+2020-07-28 16:28:49,810:DEBUG:certbot.main:certbot version: 0.27.0
+2020-07-28 16:28:49,811:DEBUG:certbot.main:Arguments: ['-q']
+2020-07-28 16:28:49,812:DEBUG:certbot.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#apache,PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-07-28 16:28:49,822:DEBUG:certbot.log:Root logging level set at 30
+2020-07-28 16:28:49,822:INFO:certbot.log:Saving debug log to /var/log/letsencrypt/letsencrypt.log
+2020-07-28 16:28:49,840:DEBUG:certbot.plugins.selection:Requested authenticator <certbot.cli._Default object at 0x7f84ca911828> and installer <certbot.cli._Default object at 0x7f84ca911828>
+2020-07-28 16:28:49,846:INFO:certbot.renewal:Cert not yet due for renewal
+2020-07-28 16:28:49,847:DEBUG:certbot.plugins.selection:Requested authenticator apache and installer apache
+2020-07-28 16:28:49,847:DEBUG:certbot.plugins.selection:Selecting plugin: * apache
+Description: Apache Web Server plugin - Beta
+Interfaces: IAuthenticator, IInstaller, IPlugin
+Entry point: apache = certbot_apache.entrypoint:ENTRYPOINT
+Initialized: <certbot_apache.override_debian.DebianConfigurator object at 0x7f84ca8fc630>
+2020-07-28 16:28:49,848:DEBUG:certbot.renewal:no renewal failures

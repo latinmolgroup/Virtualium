@@ -1,0 +1,23 @@
+# This file is automatically maintained by lvm.
+
+persistent_filter_cache {
+	valid_devices=[
+		"/dev/dm-6",
+		"/dev/loop0",
+		"/dev/disk/by-id/dm-name-loop0p1",
+		"/dev/dm-5",
+		"/dev/disk/by-label/cloudimg-rootfs",
+		"/dev/disk/by-id/dm-uuid-part1-devnode_7:0_Wh5pYvM",
+		"/dev/block/252:0",
+		"/dev/dm-2",
+		"/dev/mapper/loop0p1",
+		"/dev/dm-3",
+		"/dev/dm-4",
+		"/dev/dm-7",
+		"/dev/block/7:0",
+		"/dev/disk/by-partuuid/b93804ca-01",
+		"/dev/dm-1",
+		"/dev/disk/by-uuid/2ce321d3-087f-4a58-8f97-ed6135e77fee",
+		"/dev/dm-0"
+	]
+}

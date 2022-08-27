@@ -1,0 +1,26 @@
+type: snap-declaration
+authority-id: canonical
+revision: 1
+series: 16
+snap-id: T09mpujiTnzSdSCuqNkE7YXXTWDq13tC
+aliases:
+  -
+    name: ssm-cli
+    target: ssm-cli
+auto-aliases:
+  - ssm-cli
+publisher-id: S7iQ7mKDXBDliQqRcgefvc2TKXIH9pYk
+snap-name: amazon-ssm-agent
+timestamp: 2020-05-18T20:47:35.856439Z
+sign-key-sha3-384: BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul
+
+AcLBUgQAAQoABgUCXsL0ZwAAbQcQAI0nx2Fbqxwq50Ykh/YHBuVF33gpfcyDcAB0B/E8cOkqJDG+
+OpR7mAMuk6UrVpWfxL0WptcE+o0qIgIUy+T8Yz5AOTi0hf/ZxVxdCqDB7BdrgXrZ7bxPUnc33+9Z
+qjubdNc364K+0chg2LsXUDaHBHVKToRs00gV+gBytWyLqJ2BQZzREs/6syREus26Q5Nv+22RijxL
+wB8epPUDPtsEWUE0mWq6G9u2euGEIXSAVi/GCgyjYdc4MS8Q+uMl9Gd1lwPso8xWmjOJoSWnGSfe
+/Pv39hKTg9ddrf29904sSiKF4MzWZi+8rU/KkQqnnUdEHfbwQiFzA5SG7UnxukraiO1fYVu/VQYm
+VcmjUhHHSYIXvYJAP2N0lyOkXZpfETYX0hy6rkm/sV7GKQXBSIXf2i0184Z+9i1Fua11HS4L1D2T
+ZPKZjTaOd7zp2CALvCWYXEZ1tqodMJswVisFFUSM42jHCWk/Du4I1FtxJhnDsN6SFUnRQ2fXb1Ex
+O7b0YgLI2PDZEFjHZufUc585ClvNWj7v6CtAXwGN1qVwiDSllusXz7Tp3L7sDsygtrzfMpjXZa6u
+QsjmlDeukuHL3QNwUUM6EMNepVzsRe9NaXHajdYWLrxJuzoqGNAu4galCh5Ms7PFfrcOCOSmCTW2
+Q4QMbxXdIEk0B+DUAQNuJ2rrWoOU

@@ -1,0 +1,5 @@
+/etc/apparmor.d/usr.lib.snapd.snap-confine.real
+/etc/apt/apt.conf.d/20snapd.conf
+/etc/profile.d/apps-bin-path.sh
+/etc/sudoers.d/99-snapd.conf
+/etc/xdg/autostart/snap-userd-autostart.desktop

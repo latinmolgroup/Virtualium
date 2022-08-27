@@ -1,0 +1,134 @@
+#!/bin/sh
+set -e
+
+# Automatically added by dh_systemd_enable/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	# This will only remove masks created by d-s-h on package removal.
+	deb-systemd-helper unmask 'lxd.service' >/dev/null || true
+
+	# was-enabled defaults to true, so new installations run enable.
+	if deb-systemd-helper --quiet was-enabled 'lxd.service'; then
+		# Enables the unit on first installation, creates new
+		# symlinks on upgrades if the unit file has changed.
+		deb-systemd-helper enable 'lxd.service' >/dev/null || true
+	else
+		# Update the statefile to add new symlinks (if any), which need to be
+		# cleaned up on purge. Also remove old symlinks.
+		deb-systemd-helper update-state 'lxd.service' >/dev/null || true
+	fi
+fi
+# End automatically added section
+# Automatically added by dh_systemd_enable/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	# This will only remove masks created by d-s-h on package removal.
+	deb-systemd-helper unmask 'lxd.socket' >/dev/null || true
+
+	# was-enabled defaults to true, so new installations run enable.
+	if deb-systemd-helper --quiet was-enabled 'lxd.socket'; then
+		# Enables the unit on first installation, creates new
+		# symlinks on upgrades if the unit file has changed.
+		deb-systemd-helper enable 'lxd.socket' >/dev/null || true
+	else
+		# Update the statefile to add new symlinks (if any), which need to be
+		# cleaned up on purge. Also remove old symlinks.
+		deb-systemd-helper update-state 'lxd.socket' >/dev/null || true
+	fi
+fi
+# End automatically added section
+# Automatically added by dh_systemd_enable/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	# This will only remove masks created by d-s-h on package removal.
+	deb-systemd-helper unmask 'lxd-containers.service' >/dev/null || true
+
+	# was-enabled defaults to true, so new installations run enable.
+	if deb-systemd-helper --quiet was-enabled 'lxd-containers.service'; then
+		# Enables the unit on first installation, creates new
+		# symlinks on upgrades if the unit file has changed.
+		deb-systemd-helper enable 'lxd-containers.service' >/dev/null || true
+	else
+		# Update the statefile to add new symlinks (if any), which need to be
+		# cleaned up on purge. Also remove old symlinks.
+		deb-systemd-helper update-state 'lxd-containers.service' >/dev/null || true
+	fi
+fi
+# End automatically added section
+# Automatically added by dh_systemd_start/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if [ -d /run/systemd/system ]; then
+		systemctl --system daemon-reload >/dev/null || true
+		deb-systemd-invoke start 'lxd-containers.service' >/dev/null || true
+	fi
+fi
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/cron.hourly/lxd 2.0.0\~rc2-0ubuntu3\~ -- "$@"
+dpkg-maintscript-helper rm_conffile /etc/init/lxd.conf 2.17-0ubuntu2\~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installinit/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if [ -x "/etc/init.d/lxd" ]; then
+		update-rc.d lxd defaults >/dev/null || exit 1
+	fi
+fi
+# End automatically added section
+
+
+# Manual init script handling
+if [ -d /run/systemd/system ]; then
+    systemctl --system daemon-reload >/dev/null || true
+    deb-systemd-invoke start lxd.socket >/dev/null || true
+
+    if ! systemctl -q is-active lxd.service; then
+        deb-systemd-invoke restart lxd-containers.service >/dev/null || true
+    fi
+elif  [ -x "/etc/init.d/lxd" ] || [ -e "/etc/init/lxd.conf" ]; then
+    invoke-rc.d lxd start || exit $?
+fi
+
+# Configure dnsmasq
+if [ -z "${2}" ] || dpkg --compare-versions "${2}" lt "2.1-0ubuntu2~"; then
+    if [ -f /etc/dnsmasq.d-available/lxd ] && [ ! -e /etc/dnsmasq.d/lxd ]; then
+        echo "Setting up lxd dnsmasq configuration."
+        mkdir -p /etc/dnsmasq.d
+        ln -s /etc/dnsmasq.d-available/lxd /etc/dnsmasq.d/lxd
+
+        # Try to restart a potential system wide dnsmasq
+        invoke-rc.d dnsmasq restart 2>/dev/null || true
+    fi
+fi
+
+# Print the install message
+if [ -z "${2}" ]; then
+    echo ""
+    echo "To go through the initial LXD configuration, run: lxd init"
+    echo ""
+fi
+
+# Upgrade LXD bridge
+if [ -e "/etc/default/lxd-bridge" ] && [ ! -e "/etc/default/lxd-bridge.upgraded" ]; then
+    echo ""
+    echo "Old bridge configuration detected in /etc/default/lxd-bridge, upgrading"
+    /usr/lib/lxd/upgrade-bridge
+    echo ""
+
+    # Cleanup apparmor config for good measure (lxd-bridge is gone)
+    rm -f /etc/apparmor.d/usr.lib.lxd.lxd-bridge-proxy
+    rm -f /etc/apparmor.d/disable/usr.lib.lxd.lxd-bridge-proxy
+    rm -f /etc/apparmor.d/force-complain/usr.lib.lxd.lxd-bridge-proxy
+    rm -f /etc/apparmor.d/local/usr.lib.lxd.lxd-bridge-proxy
+
+    # Stop LXD again if it should be
+    if [ -d /run/systemd/system ]; then
+        deb-systemd-invoke stop lxd.service >/dev/null 2>&1 || true
+        deb-systemd-invoke restart lxd-containers.service >/dev/null 2>&1 || true
+    fi
+fi
+
+# Fix a rare race condition where LXD is activated halfway through update
+if [ -d /run/systemd/system ]; then
+    if systemctl -q is-active lxd.service; then
+        deb-systemd-invoke restart lxd.service >/dev/null || true
+    fi
+fi
+
+exit 0

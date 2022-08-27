@@ -1,0 +1,10 @@
+
+[docs]
+Sphinx
+
+[test]
+zope.testing
+
+[testing]
+coverage
+nose

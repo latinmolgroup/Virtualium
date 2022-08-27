@@ -1,0 +1,33 @@
+
+#include <tunables/global>
+
+# This is a snap name without the instance key
+@{SNAP_NAME}="amazon-ssm-agent"
+# This is a snap name with instance key
+@{SNAP_INSTANCE_NAME}="amazon-ssm-agent"
+@{SNAP_COMMAND_NAME}="ssm-cli"
+@{SNAP_REVISION}="2012"
+@{PROFILE_DBUS}="snap_2eamazon_2dssm_2dagent_2essm_2dcli"
+@{INSTALL_DIR}="/{,var/lib/snapd/}snap"
+
+profile "snap.amazon-ssm-agent.ssm-cli" (attach_disconnected,mediate_deleted,complain) {
+  # set file rules so that exec() inherits our profile unless there is
+  # already a profile for it (eg, snap-confine)
+  / rwkl,
+  /** rwlkm,
+  /** pix,
+
+  capability,
+  change_profile unsafe /**,
+  dbus,
+  network,
+  mount,
+  remount,
+  umount,
+  pivot_root,
+  ptrace,
+  signal,
+  unix,
+
+
+}

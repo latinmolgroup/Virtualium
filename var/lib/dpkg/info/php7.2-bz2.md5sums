@@ -1,0 +1,5 @@
+775a43d7cd2e77844386bdee845fdf13  usr/lib/php/20170718/bz2.so
+68991fe92c2e50823ca010dfb9df6ef7  usr/share/bug/php7.2-bz2/control
+aa1177c3d68f66a772f8ae9c5b08e366  usr/share/bug/php7.2-bz2/script
+36947115fd2bb994e2b393a22bb532ca  usr/share/lintian/overrides/php7.2-bz2
+f0447aac70671077e32a8f2366e5c351  usr/share/php7.2-bz2/bz2/bz2.ini

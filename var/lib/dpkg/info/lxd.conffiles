@@ -1,0 +1,4 @@
+/etc/dnsmasq.d-available/lxd
+/etc/init.d/lxd
+/etc/logrotate.d/lxd
+/etc/sysctl.d/10-lxd-inotify.conf

@@ -1,0 +1,33 @@
+## ## End Default Options ##
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1030-aws
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1030-aws root=LABEL=cloudimg-rootfs ro console=hvc0 
+initrd		/boot/initrd.img-5.3.0-1030-aws
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1030-aws (recovery mode)
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1030-aws root=LABEL=cloudimg-rootfs ro  single
+initrd		/boot/initrd.img-5.3.0-1030-aws
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1028-aws
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1028-aws root=LABEL=cloudimg-rootfs ro console=hvc0 
+initrd		/boot/initrd.img-5.3.0-1028-aws
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1028-aws (recovery mode)
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1028-aws root=LABEL=cloudimg-rootfs ro  single
+initrd		/boot/initrd.img-5.3.0-1028-aws
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1023-aws
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1023-aws root=LABEL=cloudimg-rootfs ro console=hvc0 
+initrd		/boot/initrd.img-5.3.0-1023-aws
+
+title		Ubuntu 18.04.4 LTS, kernel 5.3.0-1023-aws (recovery mode)
+root		(hd0)
+kernel		/boot/vmlinuz-5.3.0-1023-aws root=LABEL=cloudimg-rootfs ro  single
+initrd		/boot/initrd.img-5.3.0-1023-aws
+
+### END DEBIAN AUTOMAGIC KERNELS LIST

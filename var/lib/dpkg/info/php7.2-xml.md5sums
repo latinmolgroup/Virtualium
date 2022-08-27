@@ -1,0 +1,17 @@
+61295d915d7286fa3bbcb4950d278192  usr/lib/php/20170718/dom.so
+f3264e3076677988fb55fc67440b337a  usr/lib/php/20170718/simplexml.so
+57d6f80864f109b28bd2a672075c2b75  usr/lib/php/20170718/wddx.so
+80dab0d773bc34da8fa8e4ff9b9bc400  usr/lib/php/20170718/xml.so
+bd8898cb13269823aca7107b8ba1263a  usr/lib/php/20170718/xmlreader.so
+b86a03efc7cb385da2a856bdd2075f86  usr/lib/php/20170718/xmlwriter.so
+e78bf9be4907e830a0f5198ae69330f9  usr/lib/php/20170718/xsl.so
+68991fe92c2e50823ca010dfb9df6ef7  usr/share/bug/php7.2-xml/control
+25ae3a0f5b9fb3c41f61be0b81fcbf98  usr/share/bug/php7.2-xml/script
+254f3c0b2092f7c8017298e6496f71fe  usr/share/lintian/overrides/php7.2-xml
+e88bd9b3d32d3ce6ae86ce23758b7fb3  usr/share/php7.2-xml/xml/dom.ini
+d59ce88cfda1c4161044ca85d33f9293  usr/share/php7.2-xml/xml/simplexml.ini
+12e95252ab3044d64fe0ea4f297b6daa  usr/share/php7.2-xml/xml/wddx.ini
+148d7029bf667c8b3eeb4a2180431062  usr/share/php7.2-xml/xml/xml.ini
+ce6be61dbe2d23cbb9fbe76e76131997  usr/share/php7.2-xml/xml/xmlreader.ini
+0850b6a32fea855c178b1bceb6572d0b  usr/share/php7.2-xml/xml/xmlwriter.ini
+74ea439610ac4f9c28abbfbc8cd4cbf3  usr/share/php7.2-xml/xml/xsl.ini

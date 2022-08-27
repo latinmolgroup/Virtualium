@@ -1,0 +1,14 @@
+cb26669e5f1066fd6a33b927f87b92d2  lib/systemd/system/lxd-containers.service
+bca934607544790119b344e7deb95b1b  lib/systemd/system/lxd.service
+815284858c436f666435b8cab6940242  lib/systemd/system/lxd.socket
+e72892bc83af63d0cc41fb4213b706b4  usr/bin/lxd
+4ba00d0450719c1504cb790eb0f32a3e  usr/lib/lxd/libdqlite.so.0
+4ba00d0450719c1504cb790eb0f32a3e  usr/lib/lxd/libdqlite.so.0.0.1
+f15b07bf1b3ddb3808b36d3db74b0a3d  usr/lib/lxd/libsqlite3.so.0
+f15b07bf1b3ddb3808b36d3db74b0a3d  usr/lib/lxd/libsqlite3.so.0.8.6
+5572ba2ac37cf3ee7b24dffa8b364379  usr/lib/lxd/lxd
+a51e465dc5950a9a7e1fd4d91a75a3fe  usr/lib/lxd/shutdown
+a2f77b3a043daf61f7a04d64386ec3a6  usr/lib/lxd/upgrade-bridge
+0ed73cd955bc8e90f2fe173f6bd7ba3a  usr/share/doc/lxd/copyright
+c50d72cf31e24412e61fa29038a332bf  usr/share/lintian/overrides/lxd
+cc63fbf22db40cf2787d4780a56b882c  usr/share/man/man1/lxd.1.gz

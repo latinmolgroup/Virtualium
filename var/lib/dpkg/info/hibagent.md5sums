@@ -1,0 +1,9 @@
+bf6363c9faf0b56cf5bcaafd63956268  usr/bin/enable-ec2-spot-hibernation
+54d65ea604ef0d5391915ce901e9ac74  usr/bin/hibagent
+46863834860af11bf61b1417bb28d2e7  usr/lib/python3/dist-packages/hibagent-1.0.1.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/hibagent-1.0.1.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/hibagent-1.0.1.egg-info/top_level.txt
+ae5e25f8898178808fe79441ba5af78c  usr/share/doc/hibagent/README.md
+4d2e45093ffe981a3c7257745e4ac335  usr/share/doc/hibagent/TODO.Debian
+f5bdc1c2d1d5ffccee88ff14d2fe3d84  usr/share/doc/hibagent/changelog.Debian.gz
+28957aaed2679c179fb578975b7a45d0  usr/share/doc/hibagent/copyright

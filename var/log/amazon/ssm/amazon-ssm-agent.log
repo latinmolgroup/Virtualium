@@ -1,0 +1,89 @@
+2020-07-04 01:46:42 ERROR Error adding the directory to watcher: no such file or directory
+2020-07-04 01:46:42 INFO Entering SSM Agent hibernate - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-04 07:46:50 INFO Got signal:terminated value:0xbb6fd0
+2020-07-04 07:46:50 INFO Stopping agent
+2020-07-04 07:46:52 ERROR Error adding the directory to watcher: no such file or directory
+2020-07-04 07:46:52 INFO Entering SSM Agent hibernate - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-22 00:28:20 INFO Got signal:terminated value:0x560dda2da240
+2020-07-22 00:28:20 INFO Stopping agent
+2020-07-22 14:33:36 ERROR Error adding the directory to watcher: no such file or directory
+2020-07-22 14:33:36 INFO Entering SSM Agent hibernate - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-23 23:53:21 INFO Got signal:terminated value:0x55fa8b55c240
+2020-07-23 23:53:21 INFO Stopping agent
+2020-07-24 00:31:22 ERROR Error adding the directory to watcher: no such file or directory
+2020-07-24 00:31:22 INFO Entering SSM Agent hibernate - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-29 02:46:01 INFO Got signal:terminated value:0x55ea0590d240
+2020-07-29 02:46:01 INFO Stopping agent
+2020-07-29 02:46:51 ERROR Error adding the directory to watcher: no such file or directory
+2020-07-29 02:46:51 INFO Entering SSM Agent hibernate - EC2RoleRequestError: no EC2 instance role found
+caused by: EC2MetadataError: failed to make EC2Metadata request
+	status code: 404, request id: 
+caused by: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+2020-07-29 03:08:14 INFO Got signal:terminated value:0x55887eade240
+2020-07-29 03:08:14 INFO Stopping agent

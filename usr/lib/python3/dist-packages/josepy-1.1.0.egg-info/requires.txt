@@ -1,0 +1,17 @@
+
+[dev]
+pytest
+tox
+
+[docs]
+Sphinx>=1.0
+sphinx_rtd_theme
+
+[tests]
+coverage>=4.0
+flake8
+mock
+pytest-cache>=1.0
+pytest-cov
+pytest-flake8>=0.5
+pytest>=2.8.0

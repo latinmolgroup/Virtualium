@@ -1,0 +1,12 @@
+/.
+/boot
+/boot/vmlinuz-5.3.0-1023-aws
+/usr
+/usr/lib
+/usr/lib/linux
+/usr/lib/linux/triggers
+/usr/share
+/usr/share/doc
+/usr/share/doc/linux-image-5.3.0-1023-aws
+/usr/share/doc/linux-image-5.3.0-1023-aws/changelog.Debian.gz
+/usr/share/doc/linux-image-5.3.0-1023-aws/copyright

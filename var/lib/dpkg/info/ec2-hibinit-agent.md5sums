@@ -1,0 +1,12 @@
+3c299d0818f586e0b9794bbe0dd52e1f  lib/systemd/system-sleep/hibinit-agent
+9263cd92eadaf21dbd57dfb91e33c24b  lib/systemd/system/hibinit-agent.service
+f8cf7bb0a3dae56ab4daafd0f6ca44c2  usr/bin/hibinit-agent
+9df239c8a7bd89b6befa49b84238ddeb  usr/lib/ec2-hibinit-agent/hibinit-resume
+35e9014e48014c6ef51893b9aefcfdf7  usr/lib/python3/dist-packages/ec2_hibinit_agent-1.0.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/ec2_hibinit_agent-1.0.0.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/ec2_hibinit_agent-1.0.0.egg-info/top_level.txt
+27a982dd26f74948e0d9a7e489d575bd  usr/lib/systemd/logind.conf.d/ec2-hibinit-agent-ignore-powerkey.conf
+4c416dc6dc9e55a0d801b9e90bdf861e  usr/share/doc/ec2-hibinit-agent/README
+137737867903e5a65afb92299b05c17b  usr/share/doc/ec2-hibinit-agent/TODO.Debian
+8567f0e44743567a2431e663b5d693bc  usr/share/doc/ec2-hibinit-agent/changelog.Debian.gz
+08400ac23288f76b2213b7cf086900b6  usr/share/doc/ec2-hibinit-agent/copyright

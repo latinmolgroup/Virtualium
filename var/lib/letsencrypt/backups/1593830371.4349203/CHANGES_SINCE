@@ -1,0 +1,9 @@
+-- Deployed ACME Certificate --
+Created ssl vhost at /etc/apache2/sites-available/000-default-le-ssl.conf
+Enabled socache_shmcb module in Apache
+Enabled ssl module in Apache
+(autosave)Enabled site /etc/apache2/sites-available/000-default-le-ssl.conf
+Changed vhost at /etc/apache2/sites-available/000-default-le-ssl.conf with addresses of *:443
+	SSLCertificateFile /etc/letsencrypt/live/cake.virtualium.ttde.com.ar/fullchain.pem
+	SSLCertificateKeyFile /etc/letsencrypt/live/cake.virtualium.ttde.com.ar/privkey.pem
+	SSLCertificateChainFile /etc/letsencrypt/live/cake.virtualium.ttde.com.ar/chain.pem

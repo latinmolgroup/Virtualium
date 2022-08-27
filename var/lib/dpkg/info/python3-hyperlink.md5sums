@@ -1,0 +1,13 @@
+98ef6b2ee2d00352d01b2717e0a85feb  usr/lib/python3/dist-packages/hyperlink-17.3.1.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/hyperlink-17.3.1.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/hyperlink-17.3.1.egg-info/not-zip-safe
+1e1e57c4440c5ba49de40d0d7da3cccd  usr/lib/python3/dist-packages/hyperlink-17.3.1.egg-info/top_level.txt
+3cd261a4c0d2c54984316c20a3f2d0a5  usr/lib/python3/dist-packages/hyperlink/__init__.py
+94648e1644c9a3679881e6594ebe3b1f  usr/lib/python3/dist-packages/hyperlink/_url.py
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/hyperlink/test/__init__.py
+dc3226f94ae62c665b6d1f5335030984  usr/lib/python3/dist-packages/hyperlink/test/common.py
+9b6360b81591d88c44c769a8fc37d7ac  usr/lib/python3/dist-packages/hyperlink/test/test_common.py
+255836c977c90325261501596858c53a  usr/lib/python3/dist-packages/hyperlink/test/test_scheme_registration.py
+95fc72e3f2cea19ffbeb18ddd2602bab  usr/lib/python3/dist-packages/hyperlink/test/test_url.py
+473c609bd9bee24485688043280df388  usr/share/doc/python3-hyperlink/changelog.Debian.gz
+59779ae459c05e2ce139793bce5c8d6c  usr/share/doc/python3-hyperlink/copyright

@@ -1,0 +1,10 @@
+snaps:
+  -
+    name: core
+    channel: stable
+    file: core_9289.snap
+  -
+    name: amazon-ssm-agent
+    channel: stable/ubuntu-18.04
+    classic: true
+    file: amazon-ssm-agent_1566.snap

@@ -1,0 +1,16 @@
+bed5f0cd2d1867c747e9fabd2f59186f  usr/lib/python3/dist-packages/attr/__init__.py
+884ca78bd667e9357c7a6606abc0435f  usr/lib/python3/dist-packages/attr/_compat.py
+8d66c97485014bfe09a9b068a48ea730  usr/lib/python3/dist-packages/attr/_config.py
+28d6f85e7d867c7a3427d1a6ad1f0283  usr/lib/python3/dist-packages/attr/_funcs.py
+7a09182bf381fa67a357c7cbfc436bb4  usr/lib/python3/dist-packages/attr/_make.py
+c5d4856373ecd5fa395ddabda68e7b83  usr/lib/python3/dist-packages/attr/converters.py
+7bb4e87dffa334b7592d0243c27f13c8  usr/lib/python3/dist-packages/attr/exceptions.py
+39f3b1c11058121933d29c46d2e990fc  usr/lib/python3/dist-packages/attr/filters.py
+e106ce3e0ce17d34259ff6f33b22e457  usr/lib/python3/dist-packages/attr/validators.py
+311b342d58c5668bd051aa603e077d1c  usr/lib/python3/dist-packages/attrs-17.4.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/attrs-17.4.0.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/attrs-17.4.0.egg-info/not-zip-safe
+3830d5030913fca405bfebc0ddbe6df1  usr/lib/python3/dist-packages/attrs-17.4.0.egg-info/requires.txt
+edf1e2b352ada96b2e7b6da09f5fefac  usr/lib/python3/dist-packages/attrs-17.4.0.egg-info/top_level.txt
+e80ace4f656256af0d9837bb2bb5ed03  usr/share/doc/python3-attr/changelog.Debian.gz
+4aeb2fd12eb7c87dcc07d3d901dd31b5  usr/share/doc/python3-attr/copyright

@@ -1,0 +1,12 @@
+61a62d60eff4d1a3870bdfed712f42b8  usr/share/doc/php-composer-semver/README.md
+49cfe0de3db2c44bacc20893c4c923d3  usr/share/doc/php-composer-semver/changelog.Debian.gz
+6fb9cec7267908dc5d15ec86af8501ad  usr/share/doc/php-composer-semver/copyright
+45e809e76e8ae410327e98eaf7de5518  usr/share/php/Composer/Semver/Comparator.php
+edf79a4001285b1e8829170ccb1410f8  usr/share/php/Composer/Semver/Constraint/AbstractConstraint.php
+778922ac40264de9609d28eff2782f82  usr/share/php/Composer/Semver/Constraint/Constraint.php
+9710db902e56d55ea9b2436a7629ecee  usr/share/php/Composer/Semver/Constraint/ConstraintInterface.php
+0445defde088fa28d7e247570d8ae264  usr/share/php/Composer/Semver/Constraint/EmptyConstraint.php
+e37cc318816df1e3c933413bf75878c2  usr/share/php/Composer/Semver/Constraint/MultiConstraint.php
+7393d35d9b20a7145f2358dffe19fe58  usr/share/php/Composer/Semver/Semver.php
+71faa3369b84c6f07c4d85904f921f01  usr/share/php/Composer/Semver/VersionParser.php
+23185e1f7ba4e60096025f7ca46222ac  usr/share/php/Composer/Semver/autoload.php

@@ -1,0 +1,7 @@
+b9cbff4cc2f7b987b3f04b2d7fd78c79  usr/share/doc/php-composer-spdx-licenses/README.md
+ce02224bc7785fe373d36feffcee5a33  usr/share/doc/php-composer-spdx-licenses/changelog.Debian.gz
+d66c69ac2d388a36a8ba8e970c91150a  usr/share/doc/php-composer-spdx-licenses/copyright
+0aa24cc34321b020de719118b45c0f27  usr/share/php/Composer/Spdx/SpdxLicenses.php
+4af78ceb844415f528ba2fb6a79bc96b  usr/share/php/Composer/Spdx/autoload.php
+7884926ba2c138acd7c2e1077cfffff6  usr/share/php/data/Composer/res/spdx-exceptions.json
+945b23979d3e93465e20a5babf99e805  usr/share/php/data/Composer/res/spdx-licenses.json

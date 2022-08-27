@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/php-composer-ca-bundle
+/usr/share/doc/php-composer-ca-bundle/README.md
+/usr/share/doc/php-composer-ca-bundle/changelog.Debian.gz
+/usr/share/doc/php-composer-ca-bundle/copyright
+/usr/share/php
+/usr/share/php/Composer
+/usr/share/php/Composer/CaBundle
+/usr/share/php/Composer/CaBundle/CaBundle.php
+/usr/share/php/Composer/CaBundle/autoload.php
+/usr/share/php/data
+/usr/share/php/data/Composer
+/usr/share/php/data/Composer/res
+/usr/share/php/data/Composer/res/cacert.pem

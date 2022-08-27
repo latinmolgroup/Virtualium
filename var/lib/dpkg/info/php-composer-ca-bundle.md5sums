@@ -1,0 +1,5 @@
+44c45494e4ce909fdd0a6a2a0d7bae5b  usr/share/doc/php-composer-ca-bundle/README.md
+a14e7d0715a9231fb482ed07aaeca3b5  usr/share/doc/php-composer-ca-bundle/changelog.Debian.gz
+116a5078198722be4fb95bf0bd37b3e7  usr/share/doc/php-composer-ca-bundle/copyright
+4656b5953089dfde845fce56ad60ab76  usr/share/php/Composer/CaBundle/CaBundle.php
+fcd3faaf46cddf272fd5b67574d14283  usr/share/php/Composer/CaBundle/autoload.php

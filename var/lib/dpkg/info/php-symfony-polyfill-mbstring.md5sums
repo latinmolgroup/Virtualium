@@ -1,0 +1,7 @@
+f5f7139fd4701413247ba3a335743783  usr/share/doc/php-symfony-polyfill-mbstring/changelog.Debian.gz
+4682d33941d68195ab51cbf271620585  usr/share/doc/php-symfony-polyfill-mbstring/copyright
+4ffef0651a2e07d4928ad2d436196a4d  usr/share/php/Symfony/Polyfill/Mbstring/Mbstring.php
+d9906d2ce0acf432769f3e39d076d9f8  usr/share/php/Symfony/Polyfill/Mbstring/Resources/unidata/lowerCase.php
+593eadd4f6e3791482bfd3a24304ad67  usr/share/php/Symfony/Polyfill/Mbstring/Resources/unidata/upperCase.php
+0bda6459e8a4de4128dfd9972032f8e7  usr/share/php/Symfony/Polyfill/Mbstring/autoload.php
+828ab1cdf9f31dd628e652292a1b2103  usr/share/php/Symfony/Polyfill/Mbstring/bootstrap.php

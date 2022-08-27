@@ -1,0 +1,13 @@
+[Unit]
+Description=Mount unit for core, revision 9665
+Before=snapd.service
+
+[Mount]
+What=/var/lib/snapd/snaps/core_9665.snap
+Where=/snap/core/9665
+Type=squashfs
+Options=nodev,ro,x-gdu.hide
+LazyUnmount=yes
+
+[Install]
+WantedBy=multi-user.target

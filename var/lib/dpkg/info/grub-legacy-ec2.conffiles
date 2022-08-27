@@ -1,0 +1,2 @@
+/etc/kernel/postinst.d/x-grub-legacy-ec2
+/etc/kernel/postrm.d/x-grub-legacy-ec2

@@ -1,0 +1,2 @@
+[alias]
+	lodag = log --oneline --decorate --graph

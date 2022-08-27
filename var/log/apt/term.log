@@ -1,0 +1,804 @@
+
+Log started: 2020-06-11  19:37:20
+Log ended: 2020-06-11  19:37:20
+
+Log started: 2020-06-11  19:38:52
+Log ended: 2020-06-11  19:38:54
+
+Log started: 2020-06-11  19:38:58
+Log ended: 2020-06-11  19:39:11
+
+Log started: 2020-06-11  19:39:13
+Log ended: 2020-06-11  19:39:13
+
+Log started: 2020-06-11  19:39:15
+Log ended: 2020-06-11  19:39:16
+
+Log started: 2020-07-04  02:16:10
+Selecting previously unselected package php-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57065 files and directories currently installed.)
+Preparing to unpack .../php-common_1%3a60ubuntu1_all.deb ...
+Unpacking php-common (1:60ubuntu1) ...
+Selecting previously unselected package php7.2-common.
+Preparing to unpack .../php7.2-common_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-common (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package php7.2-mbstring.
+Preparing to unpack .../php7.2-mbstring_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-mbstring (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php-common (1:60ubuntu1) ...
+Created symlink /etc/systemd/system/timers.target.wants/phpsessionclean.timer → /lib/systemd/system/phpsessionclean.timer.
+Setting up php7.2-common (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/calendar.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/ctype.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/exif.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/fileinfo.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/ftp.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/gettext.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/iconv.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/pdo.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/phar.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/posix.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/shmop.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/sockets.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/sysvmsg.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/sysvsem.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/sysvshm.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/tokenizer.ini with new version
+Setting up php7.2-mbstring (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/mbstring.ini with new version
+Log ended: 2020-07-04  02:16:17
+
+Log started: 2020-07-04  02:16:34
+Selecting previously unselected package php7.2-intl.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57151 files and directories currently installed.)
+Preparing to unpack .../php7.2-intl_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-intl (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-intl (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/intl.ini with new version
+Log ended: 2020-07-04  02:16:35
+
+Log started: 2020-07-04  02:16:57
+Selecting previously unselected package php7.2-xml.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57160 files and directories currently installed.)
+Preparing to unpack .../php7.2-xml_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-xml (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-xml (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/dom.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/simplexml.ini with new version
+y
+Creating config file /etc/php/7.2/mods-available/wddx.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/xml.ini with new version
+ 
+Creating config file /etc/php/7.2/mods-available/xmlreader.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/xmlwriter.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/xsl.ini with new version
+Log ended: 2020-07-04  02:16:59
+
+Log started: 2020-07-04  02:18:13
+Selecting previously unselected package php7.2-mysql.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57181 files and directories currently installed.)
+Preparing to unpack .../php7.2-mysql_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-mysql (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-mysql (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/mysqlnd.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/mysqli.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/pdo_mysql.ini with new version
+Log ended: 2020-07-04  02:18:14
+
+Log started: 2020-07-04  02:19:12
+Selecting previously unselected package php7.2-sqlite3.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57194 files and directories currently installed.)
+Preparing to unpack .../php7.2-sqlite3_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-sqlite3 (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-sqlite3 (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/sqlite3.ini with new version
+
+Creating config file /etc/php/7.2/mods-available/pdo_sqlite.ini with new version
+Log ended: 2020-07-04  02:19:13
+
+Log started: 2020-07-04  02:19:31
+Selecting previously unselected package php7.2-json.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57205 files and directories currently installed.)
+Preparing to unpack .../00-php7.2-json_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-json (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package php7.2-opcache.
+Preparing to unpack .../01-php7.2-opcache_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-opcache (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package php7.2-readline.
+Preparing to unpack .../02-php7.2-readline_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-readline (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package libsodium23:amd64.
+Preparing to unpack .../03-libsodium23_1.0.16-2_amd64.deb ...
+Unpacking libsodium23:amd64 (1.0.16-2) ...
+Selecting previously unselected package php7.2-cli.
+Preparing to unpack .../04-php7.2-cli_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-cli (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package php-cli.
+Preparing to unpack .../05-php-cli_1%3a7.2+60ubuntu1_all.deb ...
+Unpacking php-cli (1:7.2+60ubuntu1) ...
+Selecting previously unselected package php-json-schema.
+Preparing to unpack .../06-php-json-schema_5.2.6-1_all.deb ...
+Unpacking php-json-schema (5.2.6-1) ...
+Selecting previously unselected package php-composer-ca-bundle.
+Preparing to unpack .../07-php-composer-ca-bundle_1.1.0-1_all.deb ...
+Unpacking php-composer-ca-bundle (1.1.0-1) ...
+Selecting previously unselected package php-composer-semver.
+Preparing to unpack .../08-php-composer-semver_1.4.2-1_all.deb ...
+Unpacking php-composer-semver (1.4.2-1) ...
+Selecting previously unselected package php-composer-spdx-licenses.
+Preparing to unpack .../09-php-composer-spdx-licenses_1.3.0-1_all.deb ...
+Unpacking php-composer-spdx-licenses (1.3.0-1) ...
+Selecting previously unselected package jsonlint.
+Preparing to unpack .../10-jsonlint_1.7.1-1_all.deb ...
+Unpacking jsonlint (1.7.1-1) ...
+Selecting previously unselected package php-symfony-polyfill-mbstring.
+Preparing to unpack .../11-php-symfony-polyfill-mbstring_1.6.0-2_all.deb ...
+Unpacking php-symfony-polyfill-mbstring (1.6.0-2) ...
+Selecting previously unselected package php-psr-log.
+Preparing to unpack .../12-php-psr-log_1.0.2-1_all.deb ...
+Unpacking php-psr-log (1.0.2-1) ...
+Selecting previously unselected package php-symfony-debug.
+Preparing to unpack .../13-php-symfony-debug_3.4.6+dfsg-1ubuntu0.1_all.deb ...
+Unpacking php-symfony-debug (3.4.6+dfsg-1ubuntu0.1) ...
+Selecting previously unselected package php-symfony-console.
+Preparing to unpack .../14-php-symfony-console_3.4.6+dfsg-1ubuntu0.1_all.deb ...
+Unpacking php-symfony-console (3.4.6+dfsg-1ubuntu0.1) ...
+Selecting previously unselected package php-symfony-finder.
+Preparing to unpack .../15-php-symfony-finder_3.4.6+dfsg-1ubuntu0.1_all.deb ...
+Unpacking php-symfony-finder (3.4.6+dfsg-1ubuntu0.1) ...
+Selecting previously unselected package php-symfony-process.
+Preparing to unpack .../16-php-symfony-process_3.4.6+dfsg-1ubuntu0.1_all.deb ...
+Unpacking php-symfony-process (3.4.6+dfsg-1ubuntu0.1) ...
+Selecting previously unselected package php-symfony-filesystem.
+Preparing to unpack .../17-php-symfony-filesystem_3.4.6+dfsg-1ubuntu0.1_all.deb ...
+Unpacking php-symfony-filesystem (3.4.6+dfsg-1ubuntu0.1) ...
+Selecting previously unselected package php-cli-prompt.
+Preparing to unpack .../18-php-cli-prompt_1.0.3+dfsg-1_all.deb ...
+Unpacking php-cli-prompt (1.0.3+dfsg-1) ...
+Selecting previously unselected package composer.
+Preparing to unpack .../19-composer_1.6.3-1_all.deb ...
+Unpacking composer (1.6.3-1) ...
+Setting up php-psr-log (1.0.2-1) ...
+Setting up php-symfony-finder (3.4.6+dfsg-1ubuntu0.1) ...
+Setting up php-composer-ca-bundle (1.1.0-1) ...
+Setting up php-composer-semver (1.4.2-1) ...
+Setting up php7.2-readline (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/readline.ini with new version
+Setting up libsodium23:amd64 (1.0.16-2) ...
+Setting up php-cli-prompt (1.0.3+dfsg-1) ...
+Setting up php-composer-spdx-licenses (1.3.0-1) ...
+Setting up php7.2-json (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/json.ini with new version
+Setting up php-symfony-filesystem (3.4.6+dfsg-1ubuntu0.1) ...
+Setting up php-symfony-polyfill-mbstring (1.6.0-2) ...
+Setting up php7.2-opcache (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/opcache.ini with new version
+Setting up php-symfony-process (3.4.6+dfsg-1ubuntu0.1) ...
+Setting up php-symfony-debug (3.4.6+dfsg-1ubuntu0.1) ...
+Setting up php7.2-cli (7.2.24-0ubuntu0.18.04.6) ...
+update-alternatives: using /usr/bin/php7.2 to provide /usr/bin/php (php) in auto mode
+update-alternatives: using /usr/bin/phar7.2 to provide /usr/bin/phar (phar) in auto mode
+update-alternatives: using /usr/bin/phar.phar7.2 to provide /usr/bin/phar.phar (phar.phar) in auto mode
+
+Creating config file /etc/php/7.2/cli/php.ini with new version
+php_invoke: Enabled module phar for cli sapi
+php_invoke: Enabled module xmlwriter for cli sapi
+php_invoke: Enabled module xsl for cli sapi
+php_invoke: Enabled module shmop for cli sapi
+php_invoke: Enabled module sysvmsg for cli sapi
+php_invoke: Enabled module iconv for cli sapi
+php_invoke: Enabled module pdo_mysql for cli sapi
+php_invoke: Enabled module posix for cli sapi
+php_invoke: Enabled module gettext for cli sapi
+php_invoke: Enabled module simplexml for cli sapi
+php_invoke: Enabled module pdo_sqlite for cli sapi
+php_invoke: Enabled module intl for cli sapi
+php_invoke: Enabled module xml for cli sapi
+php_invoke: Enabled module ctype for cli sapi
+php_invoke: Enabled module sqlite3 for cli sapi
+php_invoke: Enabled module wddx for cli sapi
+php_invoke: Enabled module mbstring for cli sapi
+php_invoke: Enabled module mysqlnd for cli sapi
+php_invoke: Enabled module pdo for cli sapi
+php_invoke: Enabled module sysvshm for cli sapi
+php_invoke: Enabled module calendar for cli sapi
+php_invoke: Enabled module fileinfo for cli sapi
+php_invoke: Enabled module mysqli for cli sapi
+php_invoke: Enabled module xmlreader for cli sapi
+php_invoke: Enabled module dom for cli sapi
+php_invoke: Enabled module exif for cli sapi
+php_invoke: Enabled module sockets for cli sapi
+php_invoke: Enabled module ftp for cli sapi
+php_invoke: Enabled module tokenizer for cli sapi
+php_invoke: Enabled module sysvsem for cli sapi
+Setting up php-symfony-console (3.4.6+dfsg-1ubuntu0.1) ...
+Setting up jsonlint (1.7.1-1) ...
+Setting up php-json-schema (5.2.6-1) ...
+Setting up php-cli (1:7.2+60ubuntu1) ...
+Setting up composer (1.6.3-1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-04  02:20:03
+
+Log started: 2020-07-04  02:20:32
+Selecting previously unselected package libapr1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 57921 files and directories currently installed.)
+Preparing to unpack .../0-libapr1_1.6.3-2_amd64.deb ...
+Unpacking libapr1:amd64 (1.6.3-2) ...
+Selecting previously unselected package libaprutil1:amd64.
+Preparing to unpack .../1-libaprutil1_1.6.1-2_amd64.deb ...
+Unpacking libaprutil1:amd64 (1.6.1-2) ...
+Selecting previously unselected package libaprutil1-dbd-sqlite3:amd64.
+Preparing to unpack .../2-libaprutil1-dbd-sqlite3_1.6.1-2_amd64.deb ...
+Unpacking libaprutil1-dbd-sqlite3:amd64 (1.6.1-2) ...
+Selecting previously unselected package libaprutil1-ldap:amd64.
+Preparing to unpack .../3-libaprutil1-ldap_1.6.1-2_amd64.deb ...
+Unpacking libaprutil1-ldap:amd64 (1.6.1-2) ...
+Selecting previously unselected package liblua5.2-0:amd64.
+Preparing to unpack .../4-liblua5.2-0_5.2.4-1.1build1_amd64.deb ...
+Unpacking liblua5.2-0:amd64 (5.2.4-1.1build1) ...
+Selecting previously unselected package apache2-bin.
+Preparing to unpack .../5-apache2-bin_2.4.29-1ubuntu4.13_amd64.deb ...
+Unpacking apache2-bin (2.4.29-1ubuntu4.13) ...
+Selecting previously unselected package apache2-utils.
+Preparing to unpack .../6-apache2-utils_2.4.29-1ubuntu4.13_amd64.deb ...
+Unpacking apache2-utils (2.4.29-1ubuntu4.13) ...
+Selecting previously unselected package apache2-data.
+Preparing to unpack .../7-apache2-data_2.4.29-1ubuntu4.13_all.deb ...
+Unpacking apache2-data (2.4.29-1ubuntu4.13) ...
+Selecting previously unselected package apache2.
+Preparing to unpack .../8-apache2_2.4.29-1ubuntu4.13_amd64.deb ...
+Unpacking apache2 (2.4.29-1ubuntu4.13) ...
+Selecting previously unselected package ssl-cert.
+Preparing to unpack .../9-ssl-cert_1.0.39_all.deb ...
+Unpacking ssl-cert (1.0.39) ...
+Setting up libapr1:amd64 (1.6.3-2) ...
+Setting up apache2-data (2.4.29-1ubuntu4.13) ...
+Setting up ssl-cert (1.0.39) ...
+Setting up libaprutil1:amd64 (1.6.1-2) ...
+Setting up liblua5.2-0:amd64 (5.2.4-1.1build1) ...
+Setting up libaprutil1-ldap:amd64 (1.6.1-2) ...
+Setting up libaprutil1-dbd-sqlite3:amd64 (1.6.1-2) ...
+Setting up apache2-utils (2.4.29-1ubuntu4.13) ...
+Setting up apache2-bin (2.4.29-1ubuntu4.13) ...
+Setting up apache2 (2.4.29-1ubuntu4.13) ...
+Enabling module mpm_event.
+Enabling module authz_core.
+Enabling module authz_host.
+Enabling module authn_core.
+Enabling module auth_basic.
+Enabling module access_compat.
+Enabling module authn_file.
+Enabling module authz_user.
+Enabling module alias.
+Enabling module dir.
+Enabling module autoindex.
+Enabling module env.
+Enabling module mime.
+Enabling module negotiation.
+Enabling module setenvif.
+Enabling module filter.
+Enabling module deflate.
+Enabling module status.
+Enabling module reqtimeout.
+Enabling conf charset.
+Enabling conf localized-error-pages.
+Enabling conf other-vhosts-access-log.
+Enabling conf security.
+Enabling conf serve-cgi-bin.
+Enabling site 000-default.
+Created symlink /etc/systemd/system/multi-user.target.wants/apache2.service → /lib/systemd/system/apache2.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/apache-htcacheclean.service → /lib/systemd/system/apache-htcacheclean.service.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ufw (0.36-0ubuntu0.18.04.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-04  02:20:38
+
+Log started: 2020-07-04  02:26:03
+Selecting previously unselected package php7.2-curl.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 58636 files and directories currently installed.)
+Preparing to unpack .../php7.2-curl_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-curl (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-curl (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/curl.ini with new version
+Log ended: 2020-07-04  02:26:04
+
+Log started: 2020-07-04  02:26:38
+Selecting previously unselected package libzip4:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 58645 files and directories currently installed.)
+Preparing to unpack .../libzip4_1.1.2-1.1_amd64.deb ...
+Unpacking libzip4:amd64 (1.1.2-1.1) ...
+Selecting previously unselected package php7.2-bz2.
+Preparing to unpack .../php7.2-bz2_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-bz2 (7.2.24-0ubuntu0.18.04.6) ...
+Selecting previously unselected package php7.2-zip.
+Preparing to unpack .../php7.2-zip_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-zip (7.2.24-0ubuntu0.18.04.6) ...
+Setting up libzip4:amd64 (1.1.2-1.1) ...
+Setting up php7.2-bz2 (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/bz2.ini with new version
+Setting up php7.2-zip (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/mods-available/zip.ini with new version
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-04  02:26:39
+
+Log started: 2020-07-04  02:34:37
+Selecting previously unselected package php7.2-fpm.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 58668 files and directories currently installed.)
+Preparing to unpack .../php7.2-fpm_7.2.24-0ubuntu0.18.04.6_amd64.deb ...
+Unpacking php7.2-fpm (7.2.24-0ubuntu0.18.04.6) ...
+Setting up php7.2-fpm (7.2.24-0ubuntu0.18.04.6) ...
+
+Creating config file /etc/php/7.2/fpm/php.ini with new version
+php_invoke: Enabled module phar for fpm sapi
+php_invoke: Enabled module xmlwriter for fpm sapi
+php_invoke: Enabled module json for fpm sapi
+php_invoke: Enabled module xsl for fpm sapi
+php_invoke: Enabled module shmop for fpm sapi
+php_invoke: Enabled module sysvmsg for fpm sapi
+php_invoke: Enabled module iconv for fpm sapi
+php_invoke: Enabled module pdo_mysql for fpm sapi
+php_invoke: Enabled module posix for fpm sapi
+php_invoke: Enabled module gettext for fpm sapi
+php_invoke: Enabled module simplexml for fpm sapi
+php_invoke: Enabled module pdo_sqlite for fpm sapi
+php_invoke: Enabled module intl for fpm sapi
+php_invoke: Enabled module xml for fpm sapi
+php_invoke: Enabled module ctype for fpm sapi
+php_invoke: Enabled module sqlite3 for fpm sapi
+php_invoke: Enabled module wddx for fpm sapi
+php_invoke: Enabled module mbstring for fpm sapi
+php_invoke: Enabled module mysqlnd for fpm sapi
+php_invoke: Enabled module pdo for fpm sapi
+php_invoke: Enabled module opcache for fpm sapi
+php_invoke: Enabled module sysvshm for fpm sapi
+php_invoke: Enabled module calendar for fpm sapi
+php_invoke: Enabled module fileinfo for fpm sapi
+php_invoke: Enabled module mysqli for fpm sapi
+php_invoke: Enabled module curl for fpm sapi
+php_invoke: Enabled module xmlreader for fpm sapi
+php_invoke: Enabled module dom for fpm sapi
+php_invoke: Enabled module exif for fpm sapi
+php_invoke: Enabled module sockets for fpm sapi
+php_invoke: Enabled module zip for fpm sapi
+php_invoke: Enabled module ftp for fpm sapi
+php_invoke: Enabled module tokenizer for fpm sapi
+php_invoke: Enabled module sysvsem for fpm sapi
+php_invoke: Enabled module bz2 for fpm sapi
+php_invoke: Enabled module readline for fpm sapi
+NOTICE: Not enabling PHP 7.2 FPM by default.
+NOTICE: To enable PHP 7.2 FPM in Apache2 do:
+NOTICE: a2enmod proxy_fcgi setenvif
+NOTICE: a2enconf php7.2-fpm
+NOTICE: You are seeing this message because you have apache2 package installed.
+Created symlink /etc/systemd/system/multi-user.target.wants/php7.2-fpm.service → /lib/systemd/system/php7.2-fpm.service.
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-04  02:34:39
+
+Log started: 2020-07-04  02:38:53
+Selecting previously unselected package libpython2.7-minimal:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 58691 files and directories currently installed.)
+Preparing to unpack .../0-libpython2.7-minimal_2.7.17-1~18.04ubuntu1_amd64.deb ...
+Unpacking libpython2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python2.7-minimal.
+Preparing to unpack .../1-python2.7-minimal_2.7.17-1~18.04ubuntu1_amd64.deb ...
+Unpacking python2.7-minimal (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python-minimal.
+Preparing to unpack .../2-python-minimal_2.7.15~rc1-1_amd64.deb ...
+Unpacking python-minimal (2.7.15~rc1-1) ...
+Selecting previously unselected package libpython2.7-stdlib:amd64.
+Preparing to unpack .../3-libpython2.7-stdlib_2.7.17-1~18.04ubuntu1_amd64.deb ...
+Unpacking libpython2.7-stdlib:amd64 (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python2.7.
+Preparing to unpack .../4-python2.7_2.7.17-1~18.04ubuntu1_amd64.deb ...
+Unpacking python2.7 (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package libpython-stdlib:amd64.
+Preparing to unpack .../5-libpython-stdlib_2.7.15~rc1-1_amd64.deb ...
+Unpacking libpython-stdlib:amd64 (2.7.15~rc1-1) ...
+Setting up libpython2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1) ...
+Setting up python2.7-minimal (2.7.17-1~18.04ubuntu1) ...
+Linking and byte-compiling packages for runtime python2.7...
+Setting up python-minimal (2.7.15~rc1-1) ...
+Selecting previously unselected package python.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 59439 files and directories currently installed.)
+Preparing to unpack .../00-python_2.7.15~rc1-1_amd64.deb ...
+Unpacking python (2.7.15~rc1-1) ...
+Selecting previously unselected package augeas-lenses.
+Preparing to unpack .../01-augeas-lenses_1.10.1-2_all.deb ...
+Unpacking augeas-lenses (1.10.1-2) ...
+Selecting previously unselected package libaugeas0:amd64.
+Preparing to unpack .../02-libaugeas0_1.10.1-2_amd64.deb ...
+Unpacking libaugeas0:amd64 (1.10.1-2) ...
+Selecting previously unselected package python-pyicu.
+Preparing to unpack .../03-python-pyicu_1.9.8-0ubuntu1_amd64.deb ...
+Unpacking python-pyicu (1.9.8-0ubuntu1) ...
+Selecting previously unselected package python3-josepy.
+Preparing to unpack .../04-python3-josepy_1.1.0-1_all.deb ...
+Unpacking python3-josepy (1.1.0-1) ...
+Selecting previously unselected package python3-pbr.
+Preparing to unpack .../05-python3-pbr_3.1.1-3ubuntu3_all.deb ...
+Unpacking python3-pbr (3.1.1-3ubuntu3) ...
+Selecting previously unselected package python3-mock.
+Preparing to unpack .../06-python3-mock_2.0.0-3_all.deb ...
+Unpacking python3-mock (2.0.0-3) ...
+Selecting previously unselected package python3-requests-toolbelt.
+Preparing to unpack .../07-python3-requests-toolbelt_0.8.0-1_all.deb ...
+Unpacking python3-requests-toolbelt (0.8.0-1) ...
+Selecting previously unselected package python3-tz.
+Preparing to unpack .../08-python3-tz_2018.3-2_all.deb ...
+Unpacking python3-tz (2018.3-2) ...
+Selecting previously unselected package python3-rfc3339.
+Preparing to unpack .../09-python3-rfc3339_1.0-4_all.deb ...
+Unpacking python3-rfc3339 (1.0-4) ...
+Selecting previously unselected package python3-acme.
+Preparing to unpack .../10-python3-acme_0.31.0-2~ubuntu18.04.1_all.deb ...
+Unpacking python3-acme (0.31.0-2~ubuntu18.04.1) ...
+Selecting previously unselected package python3-augeas.
+Preparing to unpack .../11-python3-augeas_0.5.0-1_all.deb ...
+Unpacking python3-augeas (0.5.0-1) ...
+Selecting previously unselected package python3-configargparse.
+Preparing to unpack .../12-python3-configargparse_0.11.0-1_all.deb ...
+Unpacking python3-configargparse (0.11.0-1) ...
+Selecting previously unselected package python3-lib2to3.
+Preparing to unpack .../13-python3-lib2to3_3.6.9-1~18.04_all.deb ...
+Unpacking python3-lib2to3 (3.6.9-1~18.04) ...
+Selecting previously unselected package python3-future.
+Preparing to unpack .../14-python3-future_0.15.2-4ubuntu2_all.deb ...
+Unpacking python3-future (0.15.2-4ubuntu2) ...
+Selecting previously unselected package python3-parsedatetime.
+Preparing to unpack .../15-python3-parsedatetime_2.4-2_all.deb ...
+Unpacking python3-parsedatetime (2.4-2) ...
+Selecting previously unselected package python3-zope.hookable.
+Preparing to unpack .../16-python3-zope.hookable_4.0.4-4build4_amd64.deb ...
+Unpacking python3-zope.hookable (4.0.4-4build4) ...
+Selecting previously unselected package python3-zope.event.
+Preparing to unpack .../17-python3-zope.event_4.2.0-1_all.deb ...
+Unpacking python3-zope.event (4.2.0-1) ...
+Selecting previously unselected package python3-zope.component.
+Preparing to unpack .../18-python3-zope.component_4.3.0-1_all.deb ...
+Unpacking python3-zope.component (4.3.0-1) ...
+Selecting previously unselected package python3-certbot.
+Preparing to unpack .../19-python3-certbot_0.27.0-1~ubuntu18.04.1_all.deb ...
+Unpacking python3-certbot (0.27.0-1~ubuntu18.04.1) ...
+Selecting previously unselected package certbot.
+Preparing to unpack .../20-certbot_0.27.0-1~ubuntu18.04.1_all.deb ...
+Unpacking certbot (0.27.0-1~ubuntu18.04.1) ...
+Selecting previously unselected package python3-certbot-apache.
+Preparing to unpack .../21-python3-certbot-apache_0.23.0-1_all.deb ...
+Unpacking python3-certbot-apache (0.23.0-1) ...
+Setting up python3-requests-toolbelt (0.8.0-1) ...
+Setting up python3-pbr (3.1.1-3ubuntu3) ...
+update-alternatives: using /usr/bin/python3-pbr to provide /usr/bin/pbr (pbr) in auto mode
+Setting up python3-mock (2.0.0-3) ...
+Setting up python3-zope.event (4.2.0-1) ...
+Setting up python3-configargparse (0.11.0-1) ...
+Setting up python3-zope.hookable (4.0.4-4build4) ...
+Setting up augeas-lenses (1.10.1-2) ...
+Setting up python3-josepy (1.1.0-1) ...
+Setting up python3-lib2to3 (3.6.9-1~18.04) ...
+Setting up python3-tz (2018.3-2) ...
+Setting up libpython2.7-stdlib:amd64 (2.7.17-1~18.04ubuntu1) ...
+Setting up python3-rfc3339 (1.0-4) ...
+Setting up python3-zope.component (4.3.0-1) ...
+Setting up libaugeas0:amd64 (1.10.1-2) ...
+Setting up python2.7 (2.7.17-1~18.04ubuntu1) ...
+Setting up libpython-stdlib:amd64 (2.7.15~rc1-1) ...
+Setting up python3-future (0.15.2-4ubuntu2) ...
+update-alternatives: using /usr/bin/python3-futurize to provide /usr/bin/futurize (futurize) in auto mode
+update-alternatives: using /usr/bin/python3-pasteurize to provide /usr/bin/pasteurize (pasteurize) in auto mode
+Setting up python3-augeas (0.5.0-1) ...
+Setting up python (2.7.15~rc1-1) ...
+Setting up python-pyicu (1.9.8-0ubuntu1) ...
+Setting up python3-acme (0.31.0-2~ubuntu18.04.1) ...
+Setting up python3-parsedatetime (2.4-2) ...
+Setting up python3-certbot (0.27.0-1~ubuntu18.04.1) ...
+Setting up certbot (0.27.0-1~ubuntu18.04.1) ...
+Created symlink /etc/systemd/system/timers.target.wants/certbot.timer → /lib/systemd/system/certbot.timer.
+Setting up python3-certbot-apache (0.23.0-1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Log ended: 2020-07-04  02:39:02
+
+Log started: 2020-07-04  06:02:38
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 60982 files and directories currently installed.)
+Preparing to unpack .../libcurl3-gnutls_7.58.0-2ubuntu3.9_amd64.deb ...
+Unpacking libcurl3-gnutls:amd64 (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Setting up libcurl3-gnutls:amd64 (7.58.0-2ubuntu3.9) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-04  06:02:38
+
+Log started: 2020-07-04  06:02:40
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 60982 files and directories currently installed.)
+Preparing to unpack .../libseccomp2_2.4.3-1ubuntu3.18.04.2_amd64.deb ...
+Unpacking libseccomp2:amd64 (2.4.3-1ubuntu3.18.04.2) over (2.4.1-0ubuntu0.18.04.2) ...
+Setting up libseccomp2:amd64 (2.4.3-1ubuntu3.18.04.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-04  06:02:40
+
+Log started: 2020-07-04  06:02:42
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 60982 files and directories currently installed.)
+Preparing to unpack .../curl_7.58.0-2ubuntu3.9_amd64.deb ...
+Unpacking curl (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Preparing to unpack .../libcurl4_7.58.0-2ubuntu3.9_amd64.deb ...
+Unpacking libcurl4:amd64 (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Setting up libcurl4:amd64 (7.58.0-2ubuntu3.9) ...
+Setting up curl (7.58.0-2ubuntu3.9) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-04  06:02:43
+
+Log started: 2020-07-04  06:02:45
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 60982 files and directories currently installed.)
+Preparing to unpack .../dbus_1.12.2-1ubuntu1.2_amd64.deb ...
+Unpacking dbus (1.12.2-1ubuntu1.2) over (1.12.2-1ubuntu1.1) ...
+Preparing to unpack .../libdbus-1-3_1.12.2-1ubuntu1.2_amd64.deb ...
+Unpacking libdbus-1-3:amd64 (1.12.2-1ubuntu1.2) over (1.12.2-1ubuntu1.1) ...
+Setting up libdbus-1-3:amd64 (1.12.2-1ubuntu1.2) ...
+Setting up dbus (1.12.2-1ubuntu1.2) ...
+A reboot is required to replace the running dbus-daemon.
+Please reboot the system when convenient.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-04  06:02:46
+
+Log started: 2020-07-04  06:02:49
+Selecting previously unselected package linux-modules-5.3.0-1028-aws.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 60982 files and directories currently installed.)
+Preparing to unpack .../0-linux-modules-5.3.0-1028-aws_5.3.0-1028.30~18.04.1_amd64.deb ...
+Unpacking linux-modules-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+Selecting previously unselected package linux-image-5.3.0-1028-aws.
+Preparing to unpack .../1-linux-image-5.3.0-1028-aws_5.3.0-1028.30~18.04.1_amd64.deb ...
+Unpacking linux-image-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+Preparing to unpack .../2-linux-aws_5.3.0.1028.26_amd64.deb ...
+Unpacking linux-aws (5.3.0.1028.26) over (5.3.0.1023.23) ...
+Preparing to unpack .../3-linux-image-aws_5.3.0.1028.26_amd64.deb ...
+Unpacking linux-image-aws (5.3.0.1028.26) over (5.3.0.1023.23) ...
+Selecting previously unselected package linux-aws-5.3-headers-5.3.0-1028.
+Preparing to unpack .../4-linux-aws-5.3-headers-5.3.0-1028_5.3.0-1028.30~18.04.1_all.deb ...
+Unpacking linux-aws-5.3-headers-5.3.0-1028 (5.3.0-1028.30~18.04.1) ...
+Selecting previously unselected package linux-headers-5.3.0-1028-aws.
+Preparing to unpack .../5-linux-headers-5.3.0-1028-aws_5.3.0-1028.30~18.04.1_amd64.deb ...
+Unpacking linux-headers-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+Preparing to unpack .../6-linux-headers-aws_5.3.0.1028.26_amd64.deb ...
+Unpacking linux-headers-aws (5.3.0.1028.26) over (5.3.0.1023.23) ...
+Setting up linux-aws-5.3-headers-5.3.0-1028 (5.3.0-1028.30~18.04.1) ...
+Setting up linux-modules-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+Setting up linux-headers-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+Setting up linux-headers-aws (5.3.0.1028.26) ...
+Setting up linux-image-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+I: /vmlinuz is now a symlink to boot/vmlinuz-5.3.0-1028-aws
+I: /initrd.img is now a symlink to boot/initrd.img-5.3.0-1028-aws
+Setting up linux-image-aws (5.3.0.1028.26) ...
+Setting up linux-aws (5.3.0.1028.26) ...
+Processing triggers for linux-image-5.3.0-1028-aws (5.3.0-1028.30~18.04.1) ...
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-5.3.0-1028-aws
+/etc/kernel/postinst.d/x-grub-legacy-ec2:
+Searching for GRUB installation directory ... found: /boot/grub
+Searching for default file ... found: /boot/grub/default
+Testing for an existing GRUB menu.lst file ... found: /boot/grub/menu.lst
+Searching for splash image ... none found, skipping ...
+Found kernel: /boot/vmlinuz-4.15.0-106-generic
+Found kernel: /boot/vmlinuz-5.3.0-1028-aws
+Found kernel: /boot/vmlinuz-5.3.0-1023-aws
+Updating /boot/grub/menu.lst ... done
+
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50-cloudimg-settings.cfg'
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.3.0-1028-aws
+Found initrd image: /boot/initrd.img-5.3.0-1028-aws
+Found linux image: /boot/vmlinuz-5.3.0-1023-aws
+Found initrd image: /boot/initrd.img-5.3.0-1023-aws
+done
+Log ended: 2020-07-04  06:03:05
+
+Log started: 2020-07-07  06:15:15
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../linux-base_4.5ubuntu1.2_all.deb ...
+Unpacking linux-base (4.5ubuntu1.2) over (4.5ubuntu1.1) ...
+Setting up linux-base (4.5ubuntu1.2) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-07  06:15:15
+
+Log started: 2020-07-08  06:04:24
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../libc-bin_2.27-3ubuntu1.2_amd64.deb ...
+Unpacking libc-bin (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc-bin (2.27-3ubuntu1.2) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-08  06:04:24
+
+Log started: 2020-07-08  06:04:26
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../libc6_2.27-3ubuntu1.2_amd64.deb ...
+Unpacking libc6:amd64 (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc6:amd64 (2.27-3ubuntu1.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-07-08  06:04:27
+
+Log started: 2020-07-08  06:04:29
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../locales_2.27-3ubuntu1.2_all.deb ...
+Unpacking locales (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up locales (2.27-3ubuntu1.2) ...
+Generating locales (this might take a while)...
+  en_US.UTF-8... done
+Generation complete.
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-08  06:04:32
+
+Log started: 2020-07-08  06:04:34
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../multiarch-support_2.27-3ubuntu1.2_amd64.deb ...
+Unpacking multiarch-support (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up multiarch-support (2.27-3ubuntu1.2) ...
+Log ended: 2020-07-08  06:04:34
+
+Log started: 2020-07-08  06:04:36
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../python3-httplib2_0.9.2+dfsg-1ubuntu0.2_all.deb ...
+Unpacking python3-httplib2 (0.9.2+dfsg-1ubuntu0.2) over (0.9.2+dfsg-1ubuntu0.1) ...
+Setting up python3-httplib2 (0.9.2+dfsg-1ubuntu0.2) ...
+Log ended: 2020-07-08  06:04:36
+
+Log started: 2020-07-08  06:04:39
+Selecting previously unselected package linux-modules-5.3.0-1030-aws.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 88813 files and directories currently installed.)
+Preparing to unpack .../0-linux-modules-5.3.0-1030-aws_5.3.0-1030.32~18.04.1_amd64.deb ...
+Unpacking linux-modules-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+Selecting previously unselected package linux-image-5.3.0-1030-aws.
+Preparing to unpack .../1-linux-image-5.3.0-1030-aws_5.3.0-1030.32~18.04.1_amd64.deb ...
+Unpacking linux-image-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+Preparing to unpack .../2-linux-aws_5.3.0.1030.28_amd64.deb ...
+Unpacking linux-aws (5.3.0.1030.28) over (5.3.0.1028.26) ...
+Preparing to unpack .../3-linux-image-aws_5.3.0.1030.28_amd64.deb ...
+Unpacking linux-image-aws (5.3.0.1030.28) over (5.3.0.1028.26) ...
+Selecting previously unselected package linux-aws-5.3-headers-5.3.0-1030.
+Preparing to unpack .../4-linux-aws-5.3-headers-5.3.0-1030_5.3.0-1030.32~18.04.1_all.deb ...
+Unpacking linux-aws-5.3-headers-5.3.0-1030 (5.3.0-1030.32~18.04.1) ...
+Selecting previously unselected package linux-headers-5.3.0-1030-aws.
+Preparing to unpack .../5-linux-headers-5.3.0-1030-aws_5.3.0-1030.32~18.04.1_amd64.deb ...
+Unpacking linux-headers-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+Preparing to unpack .../6-linux-headers-aws_5.3.0.1030.28_amd64.deb ...
+Unpacking linux-headers-aws (5.3.0.1030.28) over (5.3.0.1028.26) ...
+Setting up linux-modules-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+Setting up linux-aws-5.3-headers-5.3.0-1030 (5.3.0-1030.32~18.04.1) ...
+Setting up linux-image-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+I: /vmlinuz.old is now a symlink to boot/vmlinuz-5.3.0-1028-aws
+I: /initrd.img.old is now a symlink to boot/initrd.img-5.3.0-1028-aws
+I: /vmlinuz is now a symlink to boot/vmlinuz-5.3.0-1030-aws
+I: /initrd.img is now a symlink to boot/initrd.img-5.3.0-1030-aws
+Setting up linux-image-aws (5.3.0.1030.28) ...
+Setting up linux-headers-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+Setting up linux-headers-aws (5.3.0.1030.28) ...
+Setting up linux-aws (5.3.0.1030.28) ...
+Processing triggers for linux-image-5.3.0-1030-aws (5.3.0-1030.32~18.04.1) ...
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-5.3.0-1030-aws
+/etc/kernel/postinst.d/x-grub-legacy-ec2:
+Searching for GRUB installation directory ... found: /boot/grub
+Searching for default file ... found: /boot/grub/default
+Testing for an existing GRUB menu.lst file ... found: /boot/grub/menu.lst
+Searching for splash image ... none found, skipping ...
+Found kernel: /boot/vmlinuz-4.15.0-106-generic
+Found kernel: /boot/vmlinuz-5.3.0-1030-aws
+Found kernel: /boot/vmlinuz-5.3.0-1028-aws
+Found kernel: /boot/vmlinuz-5.3.0-1023-aws
+Updating /boot/grub/menu.lst ... done
+
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/50-cloudimg-settings.cfg'
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.3.0-1030-aws
+Found initrd image: /boot/initrd.img-5.3.0-1030-aws
+Found linux image: /boot/vmlinuz-5.3.0-1028-aws
+Found initrd image: /boot/initrd.img-5.3.0-1028-aws
+Found linux image: /boot/vmlinuz-5.3.0-1023-aws
+Found initrd image: /boot/initrd.img-5.3.0-1023-aws
+done
+Log ended: 2020-07-08  06:04:54
+
+Log started: 2020-07-16  06:13:14
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 116639 files and directories currently installed.)
+Preparing to unpack .../snapd_2.45.1+18.04.2_amd64.deb ...
+Unpacking snapd (2.45.1+18.04.2) over (2.42.1+18.04) ...
+Setting up snapd (2.45.1+18.04.2) ...
+Installing new version of config file /etc/apparmor.d/usr.lib.snapd.snap-confine.real ...
+Created symlink /etc/systemd/system/multi-user.target.wants/snapd.apparmor.service → /lib/systemd/system/snapd.apparmor.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/snapd.recovery-chooser-trigger.service → /lib/systemd/system/snapd.recovery-chooser-trigger.service.
+snapd.failure.service is a disabled or a static unit, not starting it.
+snapd.snap-repair.service is a disabled or a static unit, not starting it.
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-16  06:13:20
+
+Log started: 2020-07-22  14:34:42
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 116650 files and directories currently installed.)
+Preparing to unpack .../python2.7_2.7.17-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking python2.7 (2.7.17-1~18.04ubuntu1.1) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython2.7-stdlib_2.7.17-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking libpython2.7-stdlib:amd64 (2.7.17-1~18.04ubuntu1.1) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../python2.7-minimal_2.7.17-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking python2.7-minimal (2.7.17-1~18.04ubuntu1.1) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython2.7-minimal_2.7.17-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking libpython2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1.1) over (2.7.17-1~18.04ubuntu1) ...
+Setting up libpython2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1.1) ...
+Setting up libpython2.7-stdlib:amd64 (2.7.17-1~18.04ubuntu1.1) ...
+Setting up python2.7-minimal (2.7.17-1~18.04ubuntu1.1) ...
+Setting up python2.7 (2.7.17-1~18.04ubuntu1.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-22  14:34:53
+
+Log started: 2020-07-22  14:34:55
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 116650 files and directories currently installed.)
+Preparing to unpack .../libpython3.6_3.6.9-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking libpython3.6:amd64 (3.6.9-1~18.04ubuntu1.1) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../python3.6_3.6.9-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking python3.6 (3.6.9-1~18.04ubuntu1.1) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython3.6-stdlib_3.6.9-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking libpython3.6-stdlib:amd64 (3.6.9-1~18.04ubuntu1.1) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../python3.6-minimal_3.6.9-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking python3.6-minimal (3.6.9-1~18.04ubuntu1.1) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython3.6-minimal_3.6.9-1~18.04ubuntu1.1_amd64.deb ...
+Unpacking libpython3.6-minimal:amd64 (3.6.9-1~18.04ubuntu1.1) over (3.6.9-1~18.04ubuntu1) ...
+Setting up libpython3.6-minimal:amd64 (3.6.9-1~18.04ubuntu1.1) ...
+Setting up libpython3.6-stdlib:amd64 (3.6.9-1~18.04ubuntu1.1) ...
+Setting up python3.6-minimal (3.6.9-1~18.04ubuntu1.1) ...
+Setting up libpython3.6:amd64 (3.6.9-1~18.04ubuntu1.1) ...
+Setting up python3.6 (3.6.9-1~18.04ubuntu1.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Log ended: 2020-07-22  14:35:00
+
+Log started: 2020-07-25  06:20:40
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 116650 files and directories currently installed.)
+Preparing to unpack .../libseccomp2_2.4.3-1ubuntu3.18.04.3_amd64.deb ...
+Unpacking libseccomp2:amd64 (2.4.3-1ubuntu3.18.04.3) over (2.4.3-1ubuntu3.18.04.2) ...
+Setting up libseccomp2:amd64 (2.4.3-1ubuntu3.18.04.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-07-25  06:20:44

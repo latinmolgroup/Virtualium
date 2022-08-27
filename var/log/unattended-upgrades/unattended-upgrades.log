@@ -1,0 +1,237 @@
+2020-07-04 06:02:31,430 INFO Initial blacklisted packages: 
+2020-07-04 06:02:31,431 INFO Initial whitelisted packages: 
+2020-07-04 06:02:31,431 INFO Starting unattended upgrades script
+2020-07-04 06:02:31,431 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-04 06:02:35,287 INFO Packages that will be upgraded: curl dbus libcurl3-gnutls libcurl4 libdbus-1-3 libseccomp2 linux-aws linux-headers-aws linux-image-aws
+2020-07-04 06:02:35,287 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-04 06:03:07,296 INFO All upgrades installed
+2020-07-05 04:40:15,264 INFO Initial blacklisted packages: 
+2020-07-05 04:40:15,265 INFO Initial whitelisted packages: 
+2020-07-05 04:40:15,265 INFO Starting unattended upgrades script
+2020-07-05 04:40:15,265 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-05 06:13:01,470 INFO Initial blacklisted packages: 
+2020-07-05 06:13:01,471 INFO Initial whitelisted packages: 
+2020-07-05 06:13:01,471 INFO Starting unattended upgrades script
+2020-07-05 06:13:01,471 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-05 06:13:03,144 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-06 06:52:51,933 INFO Initial blacklisted packages: 
+2020-07-06 06:52:51,934 INFO Initial whitelisted packages: 
+2020-07-06 06:52:51,934 INFO Starting unattended upgrades script
+2020-07-06 06:52:51,934 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-06 06:52:53,570 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-06 09:57:37,424 INFO Initial blacklisted packages: 
+2020-07-06 09:57:37,425 INFO Initial whitelisted packages: 
+2020-07-06 09:57:37,425 INFO Starting unattended upgrades script
+2020-07-06 09:57:37,425 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-07 06:15:11,610 INFO Initial blacklisted packages: 
+2020-07-07 06:15:11,610 INFO Initial whitelisted packages: 
+2020-07-07 06:15:11,611 INFO Starting unattended upgrades script
+2020-07-07 06:15:11,611 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-07 06:15:13,888 INFO Packages that will be upgraded: linux-base
+2020-07-07 06:15:13,888 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-07 06:15:17,336 INFO All upgrades installed
+2020-07-07 14:09:56,788 INFO Initial blacklisted packages: 
+2020-07-07 14:09:56,788 INFO Initial whitelisted packages: 
+2020-07-07 14:09:56,788 INFO Starting unattended upgrades script
+2020-07-07 14:09:56,789 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-08 06:04:18,383 INFO Initial blacklisted packages: 
+2020-07-08 06:04:18,384 INFO Initial whitelisted packages: 
+2020-07-08 06:04:18,384 INFO Starting unattended upgrades script
+2020-07-08 06:04:18,384 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-08 06:04:21,573 INFO Packages that will be upgraded: libc-bin libc6 linux-aws linux-headers-aws linux-image-aws locales multiarch-support python3-httplib2
+2020-07-08 06:04:21,573 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-08 06:04:55,830 INFO All upgrades installed
+2020-07-08 07:54:55,793 INFO Initial blacklisted packages: 
+2020-07-08 07:54:55,794 INFO Initial whitelisted packages: 
+2020-07-08 07:54:55,794 INFO Starting unattended upgrades script
+2020-07-08 07:54:55,794 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-09 01:30:14,039 INFO Initial blacklisted packages: 
+2020-07-09 01:30:14,039 INFO Initial whitelisted packages: 
+2020-07-09 01:30:14,040 INFO Starting unattended upgrades script
+2020-07-09 01:30:14,040 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-09 06:29:41,517 INFO Initial blacklisted packages: 
+2020-07-09 06:29:41,518 INFO Initial whitelisted packages: 
+2020-07-09 06:29:41,518 INFO Starting unattended upgrades script
+2020-07-09 06:29:41,518 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-09 06:29:43,213 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-10 06:44:31,566 INFO Initial blacklisted packages: 
+2020-07-10 06:44:31,566 INFO Initial whitelisted packages: 
+2020-07-10 06:44:31,566 INFO Starting unattended upgrades script
+2020-07-10 06:44:31,567 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-10 06:44:33,257 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-10 16:12:29,793 INFO Initial blacklisted packages: 
+2020-07-10 16:12:29,794 INFO Initial whitelisted packages: 
+2020-07-10 16:12:29,794 INFO Starting unattended upgrades script
+2020-07-10 16:12:29,794 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-11 03:43:53,948 INFO Initial blacklisted packages: 
+2020-07-11 03:43:53,949 INFO Initial whitelisted packages: 
+2020-07-11 03:43:53,949 INFO Starting unattended upgrades script
+2020-07-11 03:43:53,949 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-11 06:00:41,129 INFO Initial blacklisted packages: 
+2020-07-11 06:00:41,130 INFO Initial whitelisted packages: 
+2020-07-11 06:00:41,130 INFO Starting unattended upgrades script
+2020-07-11 06:00:41,130 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-11 06:00:42,816 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-12 06:18:01,642 INFO Initial blacklisted packages: 
+2020-07-12 06:18:01,643 INFO Initial whitelisted packages: 
+2020-07-12 06:18:01,643 INFO Starting unattended upgrades script
+2020-07-12 06:18:01,643 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-12 06:18:03,406 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-12 16:54:30,282 INFO Initial blacklisted packages: 
+2020-07-12 16:54:30,283 INFO Initial whitelisted packages: 
+2020-07-12 16:54:30,283 INFO Starting unattended upgrades script
+2020-07-12 16:54:30,283 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-13 06:14:51,541 INFO Initial blacklisted packages: 
+2020-07-13 06:14:51,542 INFO Initial whitelisted packages: 
+2020-07-13 06:14:51,542 INFO Starting unattended upgrades script
+2020-07-13 06:14:51,542 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-13 06:14:53,299 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-13 08:06:16,483 INFO Initial blacklisted packages: 
+2020-07-13 08:06:16,483 INFO Initial whitelisted packages: 
+2020-07-13 08:06:16,483 INFO Starting unattended upgrades script
+2020-07-13 08:06:16,484 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-14 06:00:11,353 INFO Initial blacklisted packages: 
+2020-07-14 06:00:11,353 INFO Initial whitelisted packages: 
+2020-07-14 06:00:11,353 INFO Starting unattended upgrades script
+2020-07-14 06:00:11,354 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-14 06:00:13,068 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-14 17:57:11,089 INFO Initial blacklisted packages: 
+2020-07-14 17:57:11,090 INFO Initial whitelisted packages: 
+2020-07-14 17:57:11,090 INFO Starting unattended upgrades script
+2020-07-14 17:57:11,090 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-15 06:01:21,244 INFO Initial blacklisted packages: 
+2020-07-15 06:01:21,245 INFO Initial whitelisted packages: 
+2020-07-15 06:01:21,245 INFO Starting unattended upgrades script
+2020-07-15 06:01:21,245 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-15 06:01:22,947 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-15 08:27:06,528 INFO Initial blacklisted packages: 
+2020-07-15 08:27:06,529 INFO Initial whitelisted packages: 
+2020-07-15 08:27:06,529 INFO Starting unattended upgrades script
+2020-07-15 08:27:06,529 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-16 02:37:44,499 INFO Initial blacklisted packages: 
+2020-07-16 02:37:44,499 INFO Initial whitelisted packages: 
+2020-07-16 02:37:44,499 INFO Starting unattended upgrades script
+2020-07-16 02:37:44,500 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-16 06:13:11,470 INFO Initial blacklisted packages: 
+2020-07-16 06:13:11,471 INFO Initial whitelisted packages: 
+2020-07-16 06:13:11,471 INFO Starting unattended upgrades script
+2020-07-16 06:13:11,471 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-16 06:13:13,643 INFO Packages that will be upgraded: snapd
+2020-07-16 06:13:13,643 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-16 06:13:21,804 INFO All upgrades installed
+2020-07-17 06:39:01,606 INFO Initial blacklisted packages: 
+2020-07-17 06:39:01,607 INFO Initial whitelisted packages: 
+2020-07-17 06:39:01,608 INFO Starting unattended upgrades script
+2020-07-17 06:39:01,608 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-17 06:39:03,340 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-17 07:26:46,536 INFO Initial blacklisted packages: 
+2020-07-17 07:26:46,537 INFO Initial whitelisted packages: 
+2020-07-17 07:26:46,537 INFO Starting unattended upgrades script
+2020-07-17 07:26:46,538 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-18 05:19:15,662 INFO Initial blacklisted packages: 
+2020-07-18 05:19:15,663 INFO Initial whitelisted packages: 
+2020-07-18 05:19:15,663 INFO Starting unattended upgrades script
+2020-07-18 05:19:15,663 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-18 07:00:02,018 INFO Initial blacklisted packages: 
+2020-07-18 07:00:02,019 INFO Initial whitelisted packages: 
+2020-07-18 07:00:02,019 INFO Starting unattended upgrades script
+2020-07-18 07:00:02,019 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-18 07:00:03,763 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-19 01:12:54,074 INFO Initial blacklisted packages: 
+2020-07-19 01:12:54,075 INFO Initial whitelisted packages: 
+2020-07-19 01:12:54,076 INFO Starting unattended upgrades script
+2020-07-19 01:12:54,076 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-19 06:58:51,902 INFO Initial blacklisted packages: 
+2020-07-19 06:58:51,903 INFO Initial whitelisted packages: 
+2020-07-19 06:58:51,903 INFO Starting unattended upgrades script
+2020-07-19 06:58:51,903 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-19 06:58:53,672 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-20 05:41:15,801 INFO Initial blacklisted packages: 
+2020-07-20 05:41:15,802 INFO Initial whitelisted packages: 
+2020-07-20 05:41:15,802 INFO Starting unattended upgrades script
+2020-07-20 05:41:15,802 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-20 06:18:01,834 INFO Initial blacklisted packages: 
+2020-07-20 06:18:01,834 INFO Initial whitelisted packages: 
+2020-07-20 06:18:01,834 INFO Starting unattended upgrades script
+2020-07-20 06:18:01,835 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-20 06:18:03,663 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-21 06:14:01,675 INFO Initial blacklisted packages: 
+2020-07-21 06:14:01,675 INFO Initial whitelisted packages: 
+2020-07-21 06:14:01,676 INFO Starting unattended upgrades script
+2020-07-21 06:14:01,676 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-21 06:14:03,426 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-21 09:05:27,450 INFO Initial blacklisted packages: 
+2020-07-21 09:05:27,451 INFO Initial whitelisted packages: 
+2020-07-21 09:05:27,451 INFO Starting unattended upgrades script
+2020-07-21 09:05:27,451 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-22 14:34:19,375 INFO Initial blacklisted packages: 
+2020-07-22 14:34:19,465 INFO Initial whitelisted packages: 
+2020-07-22 14:34:19,465 INFO Starting unattended upgrades script
+2020-07-22 14:34:19,466 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-22 14:34:35,976 INFO Initial blacklisted packages: 
+2020-07-22 14:34:35,977 INFO Initial whitelisted packages: 
+2020-07-22 14:34:35,977 INFO Starting unattended upgrades script
+2020-07-22 14:34:35,977 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-22 14:34:39,513 INFO Packages that will be upgraded: libpython2.7-minimal libpython2.7-stdlib libpython3.6 libpython3.6-minimal libpython3.6-stdlib python2.7 python2.7-minimal python3.6 python3.6-minimal
+2020-07-22 14:34:39,513 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-22 14:35:01,630 INFO All upgrades installed
+2020-07-23 04:20:20,042 INFO Initial blacklisted packages: 
+2020-07-23 04:20:20,042 INFO Initial whitelisted packages: 
+2020-07-23 04:20:20,042 INFO Starting unattended upgrades script
+2020-07-23 04:20:20,043 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-23 06:57:05,658 INFO Initial blacklisted packages: 
+2020-07-23 06:57:05,658 INFO Initial whitelisted packages: 
+2020-07-23 06:57:05,658 INFO Starting unattended upgrades script
+2020-07-23 06:57:05,659 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-23 06:57:07,416 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-24 06:51:37,388 INFO Initial blacklisted packages: 
+2020-07-24 06:51:37,476 INFO Initial whitelisted packages: 
+2020-07-24 06:51:37,476 INFO Starting unattended upgrades script
+2020-07-24 06:51:37,477 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-24 06:51:39,193 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-24 08:42:43,376 INFO Initial blacklisted packages: 
+2020-07-24 08:42:43,377 INFO Initial whitelisted packages: 
+2020-07-24 08:42:43,377 INFO Starting unattended upgrades script
+2020-07-24 08:42:43,377 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-25 05:07:52,681 INFO Initial blacklisted packages: 
+2020-07-25 05:07:52,682 INFO Initial whitelisted packages: 
+2020-07-25 05:07:52,682 INFO Starting unattended upgrades script
+2020-07-25 05:07:52,682 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-25 06:20:36,950 INFO Initial blacklisted packages: 
+2020-07-25 06:20:36,951 INFO Initial whitelisted packages: 
+2020-07-25 06:20:36,951 INFO Starting unattended upgrades script
+2020-07-25 06:20:36,951 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-25 06:20:39,286 INFO Packages that will be upgraded: libseccomp2
+2020-07-25 06:20:39,286 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-25 06:20:45,605 INFO All upgrades installed
+2020-07-26 03:46:10,399 INFO Initial blacklisted packages: 
+2020-07-26 03:46:10,400 INFO Initial whitelisted packages: 
+2020-07-26 03:46:10,400 INFO Starting unattended upgrades script
+2020-07-26 03:46:10,400 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-26 06:01:25,558 INFO Initial blacklisted packages: 
+2020-07-26 06:01:25,558 INFO Initial whitelisted packages: 
+2020-07-26 06:01:25,558 INFO Starting unattended upgrades script
+2020-07-26 06:01:25,559 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-26 06:01:27,409 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-27 06:24:40,892 INFO Initial blacklisted packages: 
+2020-07-27 06:24:40,893 INFO Initial whitelisted packages: 
+2020-07-27 06:24:40,893 INFO Starting unattended upgrades script
+2020-07-27 06:24:40,893 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-27 06:36:36,755 INFO Initial blacklisted packages: 
+2020-07-27 06:36:36,756 INFO Initial whitelisted packages: 
+2020-07-27 06:36:36,756 INFO Starting unattended upgrades script
+2020-07-27 06:36:36,756 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-27 06:36:38,555 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-28 01:51:00,369 INFO Initial blacklisted packages: 
+2020-07-28 01:51:00,370 INFO Initial whitelisted packages: 
+2020-07-28 01:51:00,370 INFO Starting unattended upgrades script
+2020-07-28 01:51:00,370 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-28 06:42:06,045 INFO Initial blacklisted packages: 
+2020-07-28 06:42:06,046 INFO Initial whitelisted packages: 
+2020-07-28 06:42:06,046 INFO Starting unattended upgrades script
+2020-07-28 06:42:06,046 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-28 06:42:07,851 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-29 02:46:59,816 INFO Initial blacklisted packages: 
+2020-07-29 02:46:59,820 INFO Initial whitelisted packages: 
+2020-07-29 02:46:59,820 INFO Starting unattended upgrades script
+2020-07-29 02:46:59,820 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security

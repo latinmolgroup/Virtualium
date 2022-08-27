@@ -1,0 +1,6 @@
+b27717c9ff9ec7d802928d2bb267799b  usr/share/doc/php-cli-prompt/README.md
+4a45fe4741419c54133e7e303336c98c  usr/share/doc/php-cli-prompt/changelog.Debian.gz
+840ad118d5f95d9f59747d8a5cf7f228  usr/share/doc/php-cli-prompt/copyright
+5f33ae6b81cc0d22c2a06b9d00bffc57  usr/share/doc/php-cli-prompt/examples/example.php
+e37230efdea6179856a66db7526a2797  usr/share/php/Seld/CliPrompt/CliPrompt.php
+b01a9a772d8f2ce76d76d686e1ed4068  usr/share/php/Seld/CliPrompt/autoload.php
